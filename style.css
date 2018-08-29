@@ -3,3 +3,34 @@
 	margin: 0;
 	padding: 0;
 }
+header
+{
+	background:teal;
+	display:block;
+	text-align: center;
+	
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	
+	text-align:center;
+}
+
+.profile {
+	
+	float: center;
+}
+
+a {
+	
+	text-decoration: none; 
+}
+.myimage {
+	
+	width: 340px;
+	height: 335px;
+	margin: 20px;
+	border-radius: 50%;
+}
