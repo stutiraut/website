@@ -5,7 +5,7 @@
  
  I created this website using sublime and has pushed all my changes into my personal github repository.
  
- Below is the link to my github repository
+ Here is the link to my github repository
  https://github.com/stutiraut/website
  
  <strong>Thank you</strong>
