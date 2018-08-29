@@ -51,6 +51,13 @@ h1,h2
 	
 	float: center;
 }
+.uniimage {
+	
+	width: 300px;
+	height: 275px;
+	margin: 20px;
+	float:left;
+}
 
 a {
 	
